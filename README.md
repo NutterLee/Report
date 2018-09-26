@@ -26,6 +26,10 @@ Cons:
 
 
 ## My own comment  
+1. dockers save us a lot of time to build and manage different environments
+2. the HPC is much different from what we use in school, building and managing HPC needs to combine lots of things together
+3. Omega shares the state within the clusters, this makes scheduling easier for scheduler, but also means it's difficult to avoid apps to get too much resources
+4. Google uses its experience to develop Kubernetes, so if possible, use KUbernetes instead.
 
 
 ## References
