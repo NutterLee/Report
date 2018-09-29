@@ -5,7 +5,7 @@
 This is a technical report for Apollo (Microsoft), a highly
 scalable and coordinated scheduling framework.
 
-![](https://github.com/GEORGE5961/markdown_photos/blob/master/apollo.png?raw=true)
+<img  src="https://github.com/GEORGE5961/markdown_photos/blob/master/apollo.png?raw=true" width="50%" height="50%" />
 
 ## Characteristics
 1. The framework performs scheduling decisions in a distributed manner, utilizing global cluster information via a loosely coordinated mechanism.
